@@ -49,6 +49,6 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 Tien Nguyen.
+Copyright (c) 2022 Tien Nguyen.
 
 Please contact Contributor for further use information or if you would like to make a contribution.
